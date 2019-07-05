@@ -18,7 +18,7 @@
     "start": "node app.js",
     "test": "nyc mocha --timeout=10000 --exit",
     "lint": "eslint \"**/*.js\"",
-    "build": "<please add your script here>"
+    "build": "echo 'test'"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.2",
